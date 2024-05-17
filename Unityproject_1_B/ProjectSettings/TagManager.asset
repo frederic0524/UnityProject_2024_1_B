@@ -9,6 +9,7 @@ TagManager:
   - Target
   - GameManaer
   - GameManager
+  - Fruit
   layers:
   - Default
   - TransparentFX

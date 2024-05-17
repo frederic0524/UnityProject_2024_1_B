@@ -759,7 +759,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ed235f338d12f5c42a0735ae6bbee32d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CircleObject: {fileID: 614344441174298845, guid: 6403de63b7a910a40a09eb8a6966fe9f, type: 3}
+  CircleObject:
+  - {fileID: 614344441174298845, guid: bb9644a6db3db2f44b3a1f9acc152177, type: 3}
+  - {fileID: 614344441174298845, guid: 8ea7e6e38b8e0544f9c3e1706d222dc8, type: 3}
+  - {fileID: 614344441174298845, guid: 3a4c784dd2ac5b04d97203116e2ec724, type: 3}
+  - {fileID: 614344441174298845, guid: 6403de63b7a910a40a09eb8a6966fe9f, type: 3}
+  - {fileID: 614344441174298845, guid: 632f9298502954b4c822b07c7915d51b, type: 3}
+  - {fileID: 614344441174298845, guid: d00626ba348fcd244bffa6eee8a706e7, type: 3}
+  - {fileID: 614344441174298845, guid: 590472906b2e1b842a5d5e0c63cd633a, type: 3}
   GenTransform: {fileID: 1026096865}
   TimeCheck: 0
   isGen: 0
